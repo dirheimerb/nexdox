@@ -23,6 +23,7 @@
     "@supabase/supabase-js": "^2.31.0",
     "@types/mdx": "^2.0.5",
     "date-fns": "^2.30.0",
+    "dayjs": "^1.11.9",
     "framer-motion": "^10.14.0",
     "next": "13.4.12",
     "popmotion": "^11.0.5",
